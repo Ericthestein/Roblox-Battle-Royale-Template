@@ -24,7 +24,7 @@ To change the UI, navigate to StarterGui; from there, you can customize the size
 
 ## Built With
 
-* [Roblox Studio](https://www.tensorflow.org/) - a machine learning platform developed by Google
+* [Roblox Studio](https://www.roblox.com/create) - a machine learning platform developed by Google
 
 ## Author
 
